@@ -1,0 +1,15 @@
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\bin\Debug\net6.0\Exercise_47.exe
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\bin\Debug\net6.0\Exercise_47.deps.json
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\bin\Debug\net6.0\Exercise_47.runtimeconfig.json
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\bin\Debug\net6.0\Exercise_47.dll
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\bin\Debug\net6.0\Exercise_47.pdb
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.csproj.AssemblyReference.cache
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.AssemblyInfoInputs.cache
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.AssemblyInfo.cs
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.csproj.CoreCompileInputs.cache
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.dll
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\refint\Exercise_47.dll
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.pdb
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\Exercise_47.genruntimeconfig.cache
+C:\Users\yappa\HomeWork7\Tasks and exercises\Exercise_47\obj\Debug\net6.0\ref\Exercise_47.dll
